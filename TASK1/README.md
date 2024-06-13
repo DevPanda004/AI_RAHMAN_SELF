@@ -1,1 +1,1 @@
-
+In this task, I read the research paper on "ImageNet Classification using Deep Convolutional Neural Networks" and summarised the same. Along with this, I implemented a custom RNN cell and Backpropagation Through Time to perform time series forecasting on the given dataset. The summary and the .ipynb notebook can be found here.
